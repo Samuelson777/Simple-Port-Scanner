@@ -50,4 +50,4 @@ To further develop your skills and improve the functionality of your port scanne
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Simple-Port-Scanner/blob/main/LICENSE) file for details.
